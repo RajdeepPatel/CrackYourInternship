@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/valid-palindrome-ii/submissions/1330906270/
 public class ValidPalindrome2 {
     public static boolean validPalindrome(String str){
         for(int left = 0 , right=str.length()-1; left<right; left++,right--){
