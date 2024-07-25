@@ -17,9 +17,8 @@ public class ReverseWords {
 
 
     public static void main(String[] arg) {
-        // String temp="";
         String str = "the sky is blue";
-        reverseWords(str);
+        System.out.println(reverseWords(str));
     }
 
 }
