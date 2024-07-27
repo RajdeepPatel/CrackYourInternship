@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 public class BestTimetoBuyAndSellStock {
     public static int maxProfit(int[] prices) {
         int mini=prices[0],profit=0;
