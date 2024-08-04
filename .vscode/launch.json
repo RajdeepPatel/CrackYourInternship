@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AddBinary",
+      "request": "launch",
+      "mainClass": "AddBinary",
+      "projectName": "arshgoyal dsa crackyour intern_384f06f6"
+    },
+    {
+      "type": "java",
       "name": "MajorityElement",
       "request": "launch",
       "mainClass": "MajorityElement",
