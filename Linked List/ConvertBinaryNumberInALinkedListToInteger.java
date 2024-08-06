@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 public class ConvertBinaryNumberInALinkedListToInteger {
     public static int getDecimalValue(ListNode head) {
         ListNode current = head;

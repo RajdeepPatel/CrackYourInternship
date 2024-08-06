@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 public class RemoveDuplicatesFromSortedList {
     public static ListNode deleteDuplicates(ListNode head) {
         if(head==null) return null;
