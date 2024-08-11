@@ -16,7 +16,7 @@ public class ReverseLinkedList {
         System.out.println("Original LinkedList");
         listNode.printListNode(listNode);
         System.out.println("Reversed LinkedList");
-        ListNode newListNode =   reverseList(listNode);
+        ListNode newListNode = reverseList(listNode);
         newListNode.printListNode(newListNode);
     }
 }
