@@ -1,4 +1,4 @@
-class ValidatePalindrome{
+class ValidPalindrome{
     public static boolean isPalindrome(String s) {
         s = s.toLowerCase().replaceAll("[^a-z0-9]", "");
         return checkPalindrome(s, 0, s.length() - 1);
